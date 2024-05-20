@@ -10,8 +10,8 @@ Mi-Gyeong Gwon, Gi-Mun Um, Won-Sik Cheong, Wonjun Kim (Corresponding Author) <br
 ### Environment Setting
 Please set the environment and datasets by following the guidance of [ROMP repository](https://github.com/Arthur151/ROMP).
 
-### Model Checkpoints (only for evaluation)
-Create `checkpoints` directory and place the [model checkpoint](https://drive.google.com/file/d/1mCYygCFms7fT-9VWDiLwisW1xnEN-XEw/view?usp=sharing) file in it.
+### Model Checkpoints (for evaluation)
+Download the [model checkpoint](https://drive.google.com/drive/folders/18xUeyCRONamDA1Njk1QfB3_WEnZPUk0J?usp=sharing) files and place them in `checkpoints` directory.
 
 ## Run
 ### Evaluation
