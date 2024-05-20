@@ -28,7 +28,7 @@ $ python -m romp.test --configs_yml=configs/eval_3dpw_test_hrnet_ft.yml
 ```
 
 ## Results
-#### Results of 3D human mesh reconstruction by the proposed method on 3DPW (1st row) and COCO (2nd and 3rd rows) datasets.
+#### Results of 3D human mesh reconstruction by the proposed method on occlusion-oriented benchmark datasets.
 ![Figure](./figure/fig6.jpg)
 
 
