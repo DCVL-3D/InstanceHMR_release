@@ -1,0 +1,2 @@
+directory for pre-trained checkpoints of backbone networks
+please check ROMP repository
