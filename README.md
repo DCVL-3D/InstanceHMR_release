@@ -6,7 +6,7 @@ Mi-Gyeong Gwon, Gi-Mun Um, Won-Sik Cheong, Wonjun Kim (Corresponding Author) <br
 :ferris_wheel: ***IEEE/CVF International Conference on Computer Vision and Pattern Recognition (CVPR)***, Jun. 2024. :ferris_wheel:
 
 
-## Installtion
+## Installation
 ### Environment Setting
 Please set the environment and datasets by following the guidance of [ROMP repository](https://github.com/Arthur151/ROMP).
 
