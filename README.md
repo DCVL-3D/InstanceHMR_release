@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/instance-aware-contrastive-learning-for/3d-human-pose-estimation-on-3dpw)](https://paperswithcode.com/sota/3d-human-pose-estimation-on-3dpw?p=instance-aware-contrastive-learning-for)
+
 # Instance-aware Contrastive Learning for Occluded Human Mesh Reconstruction
 
 This repository is an official Pytorch implementation of the paper [**"Instance-aware Contrastive Learning for Occluded Human Mesh Reconstruction"**](https://cvpr.thecvf.com/Conferences/2024). <br>
